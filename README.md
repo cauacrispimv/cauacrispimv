@@ -1,6 +1,4 @@
-# Cauã Crispim 🏆
-
-## My Skills
+# My Skills
 
 #### Main Stack:
 
